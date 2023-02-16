@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+/database/seeders/calendar_dump.php
+/database/seeders/comment_dump.php
+/public/dist/app.js
+/public/dist/app.css
+.env
+.DS_Store
